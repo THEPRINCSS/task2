@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656788038 source:/home/andrey/task2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
